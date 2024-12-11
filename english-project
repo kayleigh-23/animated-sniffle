@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tiger Conservation: A Global Responsibility</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Saving Tigers in India</h1>
+        <p>A Global Responsibility</p>
+    </header>
+    <main>
+        <section id="problem">
+            <h2>The Problem</h2>
+            <p>Mining, deforestation, and habitat fragmentation in India threaten tiger populations. This has global repercussions, including on biodiversity and climate resilience.</p>
+        </section>
+        <section id="solutions">
+            <h2>Solutions</h2>
+            <ul>
+                <li><strong>CSR-Driven Habitat Restoration:</strong> Reforestation and wildlife corridors.</li>
+                <li><strong>Eco-Tourism:</strong> Sustainable tourism benefiting local communities.</li>
+                <li><strong>Technological Advances:</strong> AI and drones for tracking and anti-poaching.</li>
+                <li><strong>Triple Bottom Line:</strong> Integrating people, planet, and profit.</li>
+            </ul>
+        </section>
+        <section id="visuals">
+            <h2>Visual Insights</h2>
+            <img src="tiger-trends-graph.jpg" alt="Tiger population trends graph">
+            <img src="csr-pie-chart.jpg" alt="CSR investment pie chart">
+        </section>
+        <section id="impact">
+            <h2>Global Impact</h2>
+            <p>Effective tiger conservation in India supports international biodiversity treaties, benefiting global ecosystems and economic stability.</p>
+        </section>
+        <section id="sources">
+            <h2>Sources</h2>
+            <ul>
+                <li><a href="https://online.hbs.edu/blog/post/types-of-corporate-social-responsibility">Types of CSR</a></li>
+                <li><a href="https://www.fws.gov/story/2022-09/nepals-tigers-conservation-success-story">Nepal’s Tigers</a></li>
+                <li><a href="https://online.hbs.edu/blog/post/what-is-the-triple-bottom-line">Triple Bottom Line</a></li>
+            </ul>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2024 Tiger Conservation Initiative</p>
+    </footer>
+</body>
+</html>
